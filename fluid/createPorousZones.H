@@ -1,0 +1,1 @@
+    porousZones& pZones = porousFluid[i];

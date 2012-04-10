@@ -1,0 +1,10 @@
+derivedFvPatchFields/solidWallHeatFluxTemperature/solidWallHeatFluxTemperatureFvPatchScalarField.C
+derivedFvPatchFields/solidWallMixedTemperatureCoupled/solidWallMixedTemperatureCoupledFvPatchScalarField.C
+
+fluid/compressibleCourantNo.C
+solid/solidRegionDiffNo.C
+
+porousReactingMultiregionIterativeParcelFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/porousIterativeMultiregionFoam
+
