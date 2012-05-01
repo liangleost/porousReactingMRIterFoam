@@ -1,0 +1,2 @@
+The multiregion solver for conjugate analysis of heat transfer between solid and fluid regions, which also allows full coupling with Lagrangian disperse phase, including porous zones, explicit definition of mass, energy and momentum sources.
+
